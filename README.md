@@ -6,13 +6,9 @@ PhishGuard AI is an advanced, real-time phishing URL detection engine developed 
 
 The application integrates an ensemble artificial intelligence engine wrapping a **Random Forest Classifier** and a **Bidirectional Long Short-Term Memory (LSTM)** network, demystified by **SHAP** Explainable AI.
 
-## Project Contributors
-- **Minhal Raza (24K-0554)** — Frontend UI, Dynamic Components, and Data Pipelining
-- **Ali Rooman (24K-0792)** — Deep Learning (LSTM) & Machine Learning Engine
-- **Madni Moazam (24K-0868)** — Feature Extraction & Deterministic Heuristics Pipeline
-- **Muhammad Yaseen (24K-0877)** — API Routing, Verification, and Explainable AI (XAI / SHAP)
+## Developer and Designer:
+- **Minhal Raza Mohaibani** 
 
-**Instructor:** Mr. Atif Luqman
 
 ---
 
@@ -28,7 +24,7 @@ The system operates across three tightly integrated layers:
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 ### 1. Requirements
 
